@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="A box and its highlighted shelf space">
+  <rect width="256" height="256" rx="40" fill="#122336"/>
+  <path d="M32 39V220M224 39V220M32 133H224M32 215H224" fill="none" stroke="#50697D" stroke-width="10" stroke-linecap="round"/>
+  <rect x="51" y="56" width="102" height="65" rx="7" fill="#203C47" stroke="#7AF2BD" stroke-width="7"/>
+  <path d="M65 89L85 105L132 72" fill="none" stroke="#7AF2BD" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M172 63H207V119H172Z" fill="#50697D"/>
+  <path d="M88 164L145 141L207 164L150 188Z" fill="#F5CF8B" stroke="#122336" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M88 164L150 188V237L88 211Z" fill="#D99853" stroke="#122336" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M150 188L207 164V213L150 237Z" fill="#B97439" stroke="#122336" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M115 153L176 177V192L164 197V182L104 158Z" fill="#FFF0CB"/>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "name": "HighlightBoxPlaces",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/DooDesch-Mods/SupermarketTogether-HighlightBoxPlaces",
+  "description": "Highlight matching shelf rows, stock levels, storage boxes and reserved slots for the product box in your hands.",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
